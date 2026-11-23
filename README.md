@@ -8,6 +8,10 @@
 ###
 **`OBJETVO FINAL E CONCLUSÕES`**
 ###
+*Com base na análise feita no conjunto de dados nas 10 cidades o o índice maior de feminicídio a cidade do Rio de Janeiro (capital) foram encontrados desvios de 8 casos em 3 meses.*
+###
+*Isso mostra como o tema deve ser cada vez mais explorado e as autoridades precisam avançar com melhores abordagens e endurecimento de visão sobre o caso.*
+##
 **Ferramentas utilizadas:**
 > *Google colab*
 #
